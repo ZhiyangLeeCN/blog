@@ -1,0 +1,20 @@
+baseURL = "https://at-field.io/"
+languageCode = "zh-cn"
+DefaultContentLanguage = "zh-cn"
+title  =  "Yang0"
+subtitle = "AT-FIELD 展开！"
+
+theme  =  "hello-friend"
+summaryLength = 140
+hasCJKLanguage = true
+paginate =  10
+
+[menu]
+    [[menu.main]]
+    name="归档"
+    url="/archives/"
+    weight=1
+    [[menu.main]]
+    name="关于"
+    url="/me/"
+    weight="2"
